@@ -71,7 +71,7 @@ The repo includes sample data so it's ready to try end to end. In this sample ap
 ![RAG Architecture](docs/images/appcomponents.png)
 
 ## Azure account requirements
-
+##testing
 **IMPORTANT:** In order to deploy and run this example, you'll need:
 
 - **Azure account**. If you're new to Azure, [get an Azure account for free](https://azure.microsoft.com/free/cognitive-search/) and you'll get some free Azure credits to get started. See [guide to deploying with the free trial](docs/deploy_freetrial.md).
